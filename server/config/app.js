@@ -1,13 +1,14 @@
-// moddules for node and express
 /*
-Ariel Chau
-#301151530
+Full name: Ariel Chau
+Student Id: 301151530
+Course Name: COMP 229 WEB Development
+File name: COMP229-F2022-MIDTERM-301151530
+WEB APP NAME:https://comp229-f2022-3008185557.herokuapp.com/
 Midterm lab Assignment
-
 */
 
-//setting all modules 
 
+//setting all modules for the project
 let createError = require("http-errors");
 let express = require("express");
 let path = require("path");

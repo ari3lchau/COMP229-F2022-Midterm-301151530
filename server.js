@@ -1,8 +1,10 @@
 /*
-Ariel Chau
-#301151530
+Full name: Ariel Chau
+Student Id: 301151530
+Course Name: COMP 229 WEB Development
+File name: COMP229-F2022-MIDTERM-301151530
+WEB APP NAME:https://comp229-f2022-3008185557.herokuapp.com/
 Midterm lab Assignment
-
 */
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
